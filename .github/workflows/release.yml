@@ -60,13 +60,13 @@ jobs:
             || { echo "::error::No sdist for ${GITHUB_REF_NAME#v} in dist/ ($(ls dist))"; exit 1; }
 
       - name: Store the distribution packages
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: python-package-distributions
           path: dist/
 
       - name: Store conda recipe
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: conda-recipe
           path: conda-recipe/
