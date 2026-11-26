@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "cultivars-engine is the numerical engine of cultivars and is not cited separately. If it contributes to published work, please cite cultivars, using the preferred citation below."
+type: software
+title: cultivars-engine
+abstract: "The numerical engine behind cultivars: primitives, state-space substrates, estimators, samplers and result records for research-grade time series econometrics."
+authors:
+  - family-names: Sunder
+    given-names: Nikhil
+    email: nsunder724@gmail.com
+license: MIT
+repository-code: "https://github.com/nikhilxsunder/cultivars-engine"
+url: "https://github.com/nikhilxsunder/cultivars-engine"
+keywords:
+  - econometrics
+  - time series
+  - state space
+  - Kalman filter
+  - Bayesian
+  - numerical methods
+preferred-citation:
+  type: software
+  title: "cultivars: Research-grade time series econometrics for Python"
+  authors:
+    - family-names: Sunder
+      given-names: Nikhil
+      email: nsunder724@gmail.com
+  year: 2026
+  doi: 10.5281/zenodo.23028870
+  url: "https://github.com/nikhilxsunder/cultivars"
+  license: MIT
