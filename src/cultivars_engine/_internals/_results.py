@@ -1118,7 +1118,7 @@ class _VectorResult:
     """The regressor matrix as estimated."""
     llf: float
     """Gaussian log-likelihood."""
-    nobs: float
+    nobs: int
     """Effective sample size."""
     n_params: float
     """Parameters the fit spends, covariance included.
