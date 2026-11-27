@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_core/_mappings.py
+# filepath: /src/cultivars_engine/_core/_mappings.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

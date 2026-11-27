@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/__about__.py
+# filepath: /src/cultivars_engine/__about__.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

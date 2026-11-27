@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_core/_estimators.py
+# filepath: /src/cultivars_engine/_core/_estimators.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

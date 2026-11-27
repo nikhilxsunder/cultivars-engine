@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_internals/__init__.py
+# filepath: /src/cultivars_engine/_internals/__init__.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

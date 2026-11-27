@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_internals/_coefficients.py
+# filepath: /src/cultivars_engine/_internals/_coefficients.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_core/_reparam.py
+# filepath: /src/cultivars_engine/_core/_reparams.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

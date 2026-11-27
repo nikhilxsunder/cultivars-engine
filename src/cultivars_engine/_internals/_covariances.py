@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_internals/_covariances.py
+# filepath: /src/cultivars_engine/_internals/_covariances.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

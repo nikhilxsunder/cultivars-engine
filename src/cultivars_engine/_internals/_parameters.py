@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_internals/_parameters.py
+# filepath: /src/cultivars_engine/_internals/_parameters.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

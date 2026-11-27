@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_internals/_rotations.py
+# filepath: /src/cultivars_engine/_core/_rotations.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

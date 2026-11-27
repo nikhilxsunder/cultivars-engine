@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_internals/_chains.py
+# filepath: /src/cultivars_engine/_internals/_chains.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

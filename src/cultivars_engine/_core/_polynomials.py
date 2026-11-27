@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_core/_polynomials.py
+# filepath: /src/cultivars_engine/_core/_polynomials.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #

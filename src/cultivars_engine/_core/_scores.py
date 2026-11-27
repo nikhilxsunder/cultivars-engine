@@ -1,4 +1,4 @@
-# filepath: /src/cultivars/engine/_core/_scores.py
+# filepath: /src/cultivars_engine/_core/_scores.py
 #
 # Copyright (c) 2026 Nikhil Sunder
 #
