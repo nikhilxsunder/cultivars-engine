@@ -147,6 +147,7 @@ def _arch_infinity_weights(
 
     References:
         Chung, C.-F. (1999). Estimating the fractionally integrated GARCH model.
+        Working paper, National Taiwan University.
     """
     delta = -_fractional_difference_weights(d, truncation + 1)[1:]
     lam = np.empty(truncation, dtype=np.float64)
